@@ -1,0 +1,11 @@
+Run	well	Tissue_location	Subgroup	Patient	factor	Group	factor_v2
+D886T219	S1	tumor	TEx	1	tumor_TEx	TEx	tumor_TEx
+D886T225	S7	tumor	TEx	2	tumor_TEx	TEx	tumor_TEx
+D886T226	S8	tumor	TPcirc	2	tumor_TPcirc	TPex	tumor_TPex
+D886T227	S9	tumor	TPres	2	tumor_TPres	TPex	tumor_TPex
+D886T230	S2	tumor	TPcirc	1	tumor_TPcirc	TPex	tumor_TPex
+D886T232	S14	tumor	TEx	3	tumor_TEx	TEx	tumor_TEx
+D886T233	S15	tumor	TPcirc	3	tumor_TPcirc	TPex	tumor_TPex
+D886T234	S16	tumor	TPres	3	tumor_TPres	TPex	tumor_TPex
+D886T237	S22	tumor	TPres	4	tumor_TPres	TPex	tumor_TPex
+D886T241	S26	tumor	TEx	5	tumor_TEx	TEx	tumor_TEx
